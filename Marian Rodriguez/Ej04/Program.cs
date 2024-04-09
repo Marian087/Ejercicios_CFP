@@ -7,7 +7,7 @@
             ////4. Ingresar 5 números enteros, calcular y mostrar el promedio.
 
 
-            //cargar un vector de enteros de 5 elementos y mostrarlos.
+            
 
             int[] misNumeros = new int[5];
             int suma = 0;
