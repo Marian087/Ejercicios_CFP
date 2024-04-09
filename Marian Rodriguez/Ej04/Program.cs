@@ -4,28 +4,35 @@
     {
         static void Main(string[] args)
         {
-            //4. Ingresar 5 números enteros, calcular y mostrar el promedio.
-
-            //string numeroTextoUno;
-            //string numeroTextoDos;
-            //int numeroUno;
-            //int numeroDos;
+            ////4. Ingresar 5 números enteros, calcular y mostrar el promedio.
 
 
-            //int suma;
+            //cargar un vector de enteros de 5 elementos y mostrarlos.
 
-            //Console.WriteLine("Ingrese el primer nùmero: ");
-            //numeroTextoUno = Console.ReadLine();
+            int[] misNumeros = new int[5];
+            int suma = 0;
+            double resultado;
+            
 
-            //Console.WriteLine("Ingrese el segundo nùmero: ");
-            //numeroTextoDos = Console.ReadLine();
-
-            //numeroUno = int.Parse(numeroTextoUno);
-            //numeroDos = int.Parse(numeroTextoDos);
-
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"Ingrese el numero {i + 1} de 5 : ");
+                misNumeros[i] = int.Parse(Console.ReadLine());
 
 
-            Console.WriteLine($"La suma de sus dos números es : {numeroUno + numeroDos} ");
+                 suma += misNumeros[i];
+                
+            }
+            resultado = (double)suma / misNumeros.Length;
+
+
+            Console.WriteLine($"La suma de sus números es:  {suma}");
+            Console.WriteLine($"El promedio de sus números es:  {resultado}");
+
+
+
+
+
 
 
         }

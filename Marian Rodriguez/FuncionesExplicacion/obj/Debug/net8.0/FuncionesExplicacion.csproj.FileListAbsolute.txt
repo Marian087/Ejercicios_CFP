@@ -1,0 +1,5 @@
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\FuncionesExplicacion\obj\Debug\net8.0\FuncionesExplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\FuncionesExplicacion\obj\Debug\net8.0\FuncionesExplicacion.AssemblyInfoInputs.cache
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\FuncionesExplicacion\obj\Debug\net8.0\FuncionesExplicacion.AssemblyInfo.cs
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\FuncionesExplicacion\obj\Debug\net8.0\FuncionesExplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\FuncionesExplicacion\obj\Debug\net8.0\FuncionesExplicacion.sourcelink.json
