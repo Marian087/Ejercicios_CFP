@@ -1,0 +1,12 @@
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\bin\Debug\net8.0\LibreriaDeFunciones.deps.json
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\bin\Debug\net8.0\LibreriaDeFunciones.dll
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\bin\Debug\net8.0\LibreriaDeFunciones.pdb
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.AssemblyInfoInputs.cache
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.AssemblyInfo.cs
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.sourcelink.json
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.dll
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\refint\LibreriaDeFunciones.dll
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.pdb
+C:\Users\Marian\Desktop\Ejercicios_CFP\Marian Rodriguez\LibreriaDeFunciones\obj\Debug\net8.0\ref\LibreriaDeFunciones.dll
